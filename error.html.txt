@@ -1,7 +1,0 @@
-<html>
-<head>
-<h1>Sorry for inconvinience</h1>
-</head>
-<body>
-thaks lot for understanding
-</body>
