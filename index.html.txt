@@ -1,0 +1,7 @@
+<html>
+<head>
+<h1>Hi welcome to statick website</h1>
+</head>
+<body>
+thaks
+</body>
